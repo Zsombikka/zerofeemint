@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xF9D1390eBCa7f63B276954fac0f825ED561B3616",
+  "SCAN_LINK": "https://polygonscan.com/address/0xf9d1390ebca7f63b276954fac0f825ed561b3616",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Alien Invasion NFT",
+  "SYMBOL": "AINFT",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 1,
+  "DISPLAY_COST": 15,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/alieninvasionnft-collection",
+  "SHOW_BACKGROUND": true
+}
